@@ -7,7 +7,7 @@ module.exports = {
   "BOT_NUMBER": "94729356513",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": "false",
-  "AUTO_VOICE": "false",
+  "AUTO_VOICE": "true",
   "ANTI_BAD": "warn",
   "ANTI_BOT": "false",
   "ANTI_CALL": "false",
